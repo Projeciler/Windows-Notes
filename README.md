@@ -53,8 +53,14 @@ This is my first README.md book that written with my own sentences. Maybe I use 
 | Windows Server 2022 | NT 10.0 | 20348 |
 | Windows Server 2025 | NT 10.0 | 26100 |
 
+**NOTE:** GetVersion() and GetVersionEx() functions returns Windows 8 version if the Windows version is Windows 8.1 or greater. These functions are deprecated in Windows 8.1 or later. Also VerifyVersionInfo() function is deprecated in Windows 10 or later. Use application executable manifest for Windows 8.1 or later.
+
 ## Inside of Windows
 
 ## References
 - [List of Microsoft Windows Versions (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions)
 - [Microsoft KB4493471](https://support.microsoft.com/en-us/topic/april-9-2019-kb4493471-monthly-rollup-c723a13e-bcdd-173b-fe60-5f6b920add1e)
+- [GetVersion() Function (Microsoft Learn)](https://learn.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-getversion)
+- [GetVersionExW() Function (Microsoft Learn)](https://learn.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-getversionexw)
+- [VerifyVersionInfoW() Function (Microsoft Learn)](https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-verifyversioninfow)
+- [Targeting Your Application in Windows (Microsoft Learn)](https://learn.microsoft.com/en-us/windows/win32/sysinfo/targeting-your-application-at-windows-8-1)
