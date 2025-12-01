@@ -20,9 +20,9 @@ This is my first README.md book that written with my own sentences. Maybe I use 
 ### Windows 9x Series
 | Version | Version Number | Latest Build Number |
 |---------|----------------|---------------------|
-| Windows 95 | 4.0 | 950C (4.00.950) |
-| Windows 98 | 4.10 | 4.10.2222 |
-| Windows ME | 4.90 | 4.90.3000 |
+| Windows 95 | 4.0 | 950 |
+| Windows 98 | 4.10 | 2222 |
+| Windows ME | 4.90 | 3000 |
 
 ### Windows NT Series
 | Version | Version Number | Latest Build Number |
