@@ -56,4 +56,5 @@ This is my first README.md book that written with my own sentences. Maybe I use 
 ## Inside of Windows
 
 ## References
-- [https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions](https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions)
+- [List of Microsoft Windows Versions (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions)
+- [Microsoft KB4493471](https://support.microsoft.com/en-us/topic/april-9-2019-kb4493471-monthly-rollup-c723a13e-bcdd-173b-fe60-5f6b920add1e)
