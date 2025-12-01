@@ -1,5 +1,5 @@
 # Windows Notes
-This is my first README.md book that written with my own sentences. Maybe I use to written with AI but none of the information without at least one reference.
+This is my first README.md book that written with my own sentences. Maybe I use to written with AI but none of the information without at least one reference and none of the sentence is not re-written with my own words.
 
 **NOTE:** This book is under construction.
 
