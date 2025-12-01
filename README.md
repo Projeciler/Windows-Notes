@@ -3,6 +3,8 @@ This is my first README.md book that written with my own sentences. Maybe I use 
 
 **NOTE:** This book is under construction.
 
+**NOTE:** Microsoft Windows is a registered trademark of Microsoft Corporation.
+
 ## Contents
 1. Windows Versions
 2. Inside of Windows
