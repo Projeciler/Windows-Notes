@@ -9,8 +9,6 @@ This is my first README.md book that written with my own sentences. Maybe I use 
 
 ## Windows Versions
 
-Windows is a family of operating systems developed by Microsoft. Here's an overview of major Windows versions:
-
 ### Early Windows Releases
 | Version | Version Number | Latest Build Number |
 |---------|----------------|---------------------|
@@ -41,6 +39,19 @@ Windows is a family of operating systems developed by Microsoft. Here's an overv
 | Windows 8.1 | NT 6.3 | 9600 |
 | Windows 10 | NT 10.0 | 19045 |
 | Windows 11 | NT 10.0 | 26200 |
+
+### Windows Server Versions
+| Version | Version Number | Latest Build Number |
+|---------|----------------|---------------------|
+| Windows Server 2003 | NT 5.2 | 3790 |
+| Windows Server 2008 | NT 6.0 | 6003 |
+| Windows Server 2008 R2 | NT 6.1 | 7601 |
+| Windows Server 2012 | NT 6.2 | 9200 |
+| Windows Server 2012 R2 | NT 6.3 | 9600 |
+| Windows Server 2016 | NT 10.0 | 14393 |
+| Windows Server 2019 | NT 10.0 | 17763 |
+| Windows Server 2022 | NT 10.0 | 20348 |
+| Windows Server 2025 | NT 10.0 | 26100 |
 
 ## Inside of Windows
 
