@@ -58,6 +58,7 @@ This is my first README.md book that written with my own sentences. Maybe I use 
 **NOTE:** GetVersion() and GetVersionEx() functions returns Windows 8 version if the Windows version is Windows 8.1 or greater. These functions are deprecated in Windows 8.1 or later. Also VerifyVersionInfo() function is deprecated in Windows 10 or later. Use application executable manifest for Windows 8.1 or later.
 
 ## Inside of Windows
+(stub currently)
 
 ## References
 - [List of Microsoft Windows Versions (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions)
